@@ -13,7 +13,7 @@ const Footer = () => {
  
     </VStack>
     <HStack  spacing={["2","10"]} justifyContent={"center"} color={"white"} fontSize={"50"}>
-    <a href='https://www.linked.in' target= {'_blank'} rel='noreferrer'>
+    <a href='https://www.linked.in/m-manish' target= {'_blank'} rel='noreferrer'>
     <TiSocialLinkedinCircular />
     </a>
     <a href='https://instagram.com/maniesh._._' target= {'_blank'} rel='noreferrer'>
